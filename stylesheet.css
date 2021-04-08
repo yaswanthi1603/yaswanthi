@@ -1,0 +1,101 @@
+body {
+    font-family: "Avenir Next";
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #b2cf09;
+    color: rgb(207, 188, 188);
+    height: 90px;
+    padding: 20px 30px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 70px;
+    padding: 20px 30px;
+    color:rgb(14, 13, 13);
+  }
+  
+  .header-list li {
+    float: right;
+    padding: 5px 20px;
+    color:rgb(19, 17, 17);
+    font-size: 25px;
+  }  
+  .main {
+    padding: 50px 100px;
+    float: center;
+    color:rgb(12, 12, 12);
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .copy-container h1 {
+    font-size: 30px;
+    color:rgb(5, 5, 5);
+    float: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .copy-container h2 {
+    font-size: 50px;
+    color:rgb(7, 7, 7);
+    text-align: center;
+    margin-top: 050px;
+    margin-left: 0;
+  }
+  .copy-container h3 {
+      font-size: 20px;
+      color:rgb(32, 2, 56);
+      float: center;
+      text-align: center;
+      margin-top: 0px;
+      margin-bottom: 0px;
+  }
+  
+  .copy-container span {
+    color: #0c0c0c;
+  }  
+  .contents {
+    height: 20px;
+    
+  }
+  .contents-item {
+    float: center;
+    /* Change the margin-right property to 40px */
+    margin-right: 100px;
+    
+  
+  
+  /* Change the font-size and margin-top of <p> tags within contents-item */
+  font-size: 24px;
+  margin-top: 30px;
+  }
+  
+  .footer {
+    background-color: #141414;
+    color: #f6f9fa;
+    height: 50px;
+    padding: 100px;
+    margin-bottom: 100px;
+    margin-top: 500px;
+  }
+  .footer-logo {
+    float: right;
+    font-size: 50px;
+    
+  }
+  
+  .footer-list {
+    float: right;
+
+  }
+  
+  .footer-list li {
+    padding-bottom: 0px;
+    
+  }
